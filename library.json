@@ -1,0 +1,20 @@
+{
+  "name": "steamrocket",
+  "keywords": "simple secure telemetry database mqtt ssl tls",
+  "description": "Simpe & secure telemetry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u-fire/steamrocket.git"
+  },
+  "authors": [
+    {
+      "name": "Microfire LLC",
+      "email": "steamrocket@microfire.co",
+      "url": "https://steamrocket.co",
+      "maintainer": true
+    }
+  ],
+  "version": "0.9.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
